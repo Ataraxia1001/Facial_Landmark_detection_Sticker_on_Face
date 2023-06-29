@@ -8,11 +8,11 @@ high FLOPs.
 I need to make multiple scripts to do this project.
 Mainly, the codes are divided as follow.
 
-1. plotting the points on the face
+1. plotting the points on the face.(train data)
 
-2. training neural network
+2. training neural network(CNN model)
 
-3. testing the model with new image
+3. testing the model with new image(test data)
 
 
 
