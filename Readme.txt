@@ -14,5 +14,7 @@ Mainly, the codes are divided as follow.
 
 3. testing the model with new image(test data)
 
+4. add sticker on the face image
+
 
 
